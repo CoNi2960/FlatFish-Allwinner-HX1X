@@ -1,5 +1,7 @@
-# FlatFish-Allwinner-HX1X
+# [FlatFish]-DevBoard-Allwinner-HX1X
 the lib of project [FlatFish]
+
+
 本项目基于全志H618，使用成品核心板。底板为2层板设计，方便打样，元件封装尺寸较小，焊接需仔细。
 
 [FlatFish]的正面有一块0.5寸 ssd1306芯片驱动的OLED，通过I2C0连接，反面安装核心板。
