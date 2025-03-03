@@ -1,0 +1,11 @@
+这是修改好HeartBeat设备的dts文件以及编译好的dtb文件
+This is the modified dts file of the HeartBeat device and the compiled dtb file
+
+仅对板载led做了适配
+Only the on-board LEDs are adapted
+
+将dtb文件添加到目录进行替换，然后重启开发板：/boot/dtb/allwinner/
+Add the dtb file to the directory to replace it, and then restart the board: /boot/dtb/allwinner/
+
+请记住，重新编译的dtb文件也需要按照我提供的demo进行命名，不能有差别！
+Keep in mind that the recompiled dtb file also needs to be named according to the demo I provided, and there can be no differences!
